@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a robotics engineer and developer with experience in drone technology, IoT, Python programming, and web development. This repository contains the code for my personal website where I showcase my projects.
 
 ## About Me
-- **Name**: Jeremiah H.
 - **Specialties**: Drone Technology, Python, Electronics, Robotics, Web Development
 
 ## Technologies Used
