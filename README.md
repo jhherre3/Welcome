@@ -1,9 +1,18 @@
-# Jeremiah H. Portfolio Website
+## Hello, I'm jhherre3! 👋
 
-Welcome to my GitHub profile! I'm a robotics engineer and developer with experience in drone technology, IoT, Python programming, and web development. This repository contains the code for my personal website where I showcase my projects.
+I am a robotics engineer with a diverse background in various technologies and platforms, including:
 
-## About Me
-- **Specialties**: Drone Technology, Python, Electronics, Robotics, Web Development
+- **Robotics & Automation**: Designing and developing robotic systems for various applications.
+- **Python**: Extensive experience in Python programming for automation, simulations, and data processing.
+- **Vision Systems & Image Recognition**: Working with camera-based systems, including image processing and recognition algorithms.
+- **PCB Design & Electronics**: Proficient in **Cadence** and **KiCad** for circuit design, as well as hands-on experience with wiring, prototyping, and debugging electronic systems.
+- **3D Design & Modeling**: Skilled in **Fusion 360** for creating custom parts and enclosures for drones and robots.
+- **Drone Technology**: Specialized in drone flight control systems, including building custom drones from scratch and integrating hardware components.
+- **IoT & Web3**: Building IoT systems and exploring blockchain solutions for decentralized applications.
+
+I enjoy working on innovative projects that push the boundaries of what's possible in technology, from drones and robotics to blockchain and AI.
+
+Feel free to explore my repositories to see what I'm currently working on!
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React
