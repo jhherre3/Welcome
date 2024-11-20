@@ -10,7 +10,7 @@ I am a robotics engineer with a diverse background in various technologies and p
 - **Drone Technology**: Specialized in drone flight control systems, including building custom drones from scratch and integrating hardware components.
 - **IoT & Web3**: Building IoT systems and exploring blockchain solutions for decentralized applications.
 
-I enjoy working on innovative projects that push the boundaries of what's possible in technology, from drones and robotics to blockchain and AI.
+I enjoy working on innovative projects.
 
 Feel free to explore my repositories to see what I'm currently working on!
 
@@ -23,4 +23,4 @@ Feel free to explore my repositories to see what I'm currently working on!
 [Check out the live site here](link-to-live-site)
 
 ## Contact Me
-Email: your-email@example.com
+Email: jhherre3@asu.edu
