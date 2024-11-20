@@ -20,7 +20,8 @@ Feel free to explore my repositories to see what I'm currently working on!
 - **Other**: GitHub Pages for hosting, Cadence, VS Code, KiCad, Fusion 360, 
 
 ## How to View the Website
-[Check out the live site here](link-to-live-site)
+jhherre3.github.io([url](https://jhherre3.github.io/jhherre3.github.io
+))
 
 ## Contact Me
 Email: jhherre3@asu.edu
